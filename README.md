@@ -1,2 +1,1 @@
-# kube-state-metrics
-kube-state-metrics
+promethus:v2.26.0
